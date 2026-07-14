@@ -32,13 +32,7 @@ Never miss your medicines again! Manage your daily medication schedule effortles
    - Enable/allow notifications for timely alerts  
 5. Manage, edit or delete any existing medicine schedule as needed.  
 6. Log out when finished (if applicable).  
-
-## Screenshots  
-*(Insert screenshots here)*  
-- Login / Sign Up page  
-- Dashboard with medicine schedule list  
-- Profile management page  
-- Reminder notification example  
+ 
 
 
 ## Future Enhancements  
